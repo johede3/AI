@@ -1,0 +1,13 @@
+*.pyc
+*cache
+*.idea
+*__pycache__
+.DS_Store
+drlnd/
+*Banana.app/
+*deep-reinforcement-learning/
+*venv/
+*playground_test_runs.py
+Game_Files/
+mjpro150/
+Random_Junkyard/
